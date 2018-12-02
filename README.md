@@ -15,7 +15,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Prastiwar/PyWinService.svg?style=flat-square&longCache=true)](https://github.com/Prastiwar/PyWinService/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Prastiwar/PyWinService.svg?style=flat-square&longCache=true)](https://github.com/Prastiwar/PyWinService/pulls)
 
-[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-000000.svg?longCache=true&style=for-the-badge&colorA=666677&colorB=222222)](https://unity3d.com/)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-000000.svg?longCache=true&style=for-the-badge&colorA=666677&colorB=4381b2)](www.python.org)
 
 ## Before start
 
