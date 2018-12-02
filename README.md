@@ -19,7 +19,8 @@
 
 ## Before start
 
-- [x] 
+- [x] Make sure you use Python 3 
+- [x] Package allows managing services only in Windows 
 
 
 ## Getting Started
